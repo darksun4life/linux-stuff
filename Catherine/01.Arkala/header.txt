@@ -1,0 +1,15 @@
+         ________________________________________________
+________|                                                |_______
+\       |   Commands are without flags, keep it simple.  |      /
+ \      |      Hitting RETURN shows hints and tips.      |     /
+  )     |        CTRL-C will terminate the script.       |    (
+ /      |________________________________________________|     \
+/__________)                                          (_________\
+
+Welcome PLAYER to the twisted and maddening story of Catherine Blake.
+In your quest, to unveil the truth, you'll be faced with
+incredible encounters and frustrating challenges! So thread carefully,
+for there are great dangers that lie ahead!
+
+Closest town is Arkala, maybe you should go there?
+You're in the middle of nowhere!

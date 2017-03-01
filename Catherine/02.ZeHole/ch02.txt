@@ -1,0 +1,50 @@
+	During his travel to Beggar's Hole, he's trying to remember how Catherine's brother looks like.
+
+	"Beneath his arm like sheep they die,
+	 And groan upon the plain;
+	 The battle faints, and bloody men
+	 Fight upon hills of slain."
+
+			Quote from "Gwin King of Norway", by W. Blake
+
+	As a young man, Titus S. Blake suffered a terrible defeat while fighting in the pits. He lost his left eye and right arm to his opponent. In an effort to find Titus, he tries to enter the town's tavern, hoping to find some clues, regarding her brother's whereabouts.
+
+	The tavern was empty, except for the keep. He asks for Titus, but the keeper wants a service in return. His nephew wondered in the woods a couple of days ago and never returned.
+ 	- Find him for me, and I'll give you all the information I have, said the keep.
+
+	PLAYER goes to the nearby woods, in search of the boy. He suddenly hears screams from not so far away. He runs in the direction of the scream, only to find that a pack of stray dogs had surrounded the child.
+
+	PLAYER, exiting from the hideout quickly lights a torch to scare off the beasts. The boy was in bad shape, but fortunately still alive. He hurries back to the tavern, carrying the child.
+	Once there, the keep thanks him for saving his nephew's life and tries to provide some information, regarding Titus.
+
+
+== PLAYER found Titus ==
+
+	- Where is Catherine? PLAYER asks
+	- Hello to you too, Titus replies.
+	- Forgive my poor manners, but time is of the essence. Do you know anything about your sisters' whereabouts?
+	- I haven't seen her in a while, but I received a letter yesterday, asking me for gold. Do you know anything about this, PLAYER?
+	- I'm afraid I don't, but I do have more bad news. Your parents are dead.
+	- B..b...but how? his voice tremble
+	- I found them two days ago, burnt to a crisp, while I was searching for your sister.
+	- How did this happen?
+	- Maybe it is related to the gold she asked for. May I see the letter from Catherine?
+
+== PLAYER reads the letter from Catherine ==
+Dear brother,
+
+	I'm afraid I've done a stupid thing. Mother being ill, I needed to borrow a hefty quantity of gold for her medicine.
+	The deadline is near, and I already been threatened by the man they call The Rotten Dagger. I'm afraid if I don't pay him back soon, something terrible will happen to us.
+
+Please bring 15 nuggets of gold to Arkala, fast.
+
+Love Cat.
+
+==
+
+	- Damn bastard!! His gang is always terrorising Nekropolis. What could his business be in Arkala? said Titus.
+	- I don't know, but I will have to find out, said PLAYER.
+	- Wish I could join you, but I must travel to Arkala first, and give my parents a proper burial. Here are the 15 nuggets of gold, please try to save Catherine, for she is the only family I have left.
+
+	With the guidance from Titus, PLAYER finds himself on the path to Nekropolis.
+
